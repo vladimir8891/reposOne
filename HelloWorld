@@ -1,0 +1,3 @@
+echo "Hello, World!" > newfile.txt
+git add newfile.txt
+git commit -m "Add newfile.txt with initial content"
